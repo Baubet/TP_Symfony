@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/tp/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/tp/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/type-info" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/tp/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/tp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/tp/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
