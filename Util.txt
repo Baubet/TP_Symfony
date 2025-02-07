@@ -1,0 +1,8 @@
+Lancement serv :
+$ symfony server:start
+
+En mode production, vider le cache :
+$ symfony console cache:clear --env=prod
+
+En mode développement, vider le cache :
+$ symfony console cache:clear
