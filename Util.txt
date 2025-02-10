@@ -1,4 +1,4 @@
-Lancement serv :
+Lancement serveur (lancement dans le dossier tp juste au dessus de var et vendor) :
 $ symfony server:start
 
 En mode production, vider le cache :
