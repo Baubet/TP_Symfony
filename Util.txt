@@ -1,6 +1,10 @@
 Lancement serveur (lancement dans le dossier tp juste au dessus de var et vendor) :
 $ symfony server:start
 
+
+Accès : 
+http://localhost:8000 (http://127.0.0.1:8000)
+
 En mode production, vider le cache :
 $ symfony console cache:clear --env=prod
 
