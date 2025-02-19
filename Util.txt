@@ -6,3 +6,8 @@ $ symfony console cache:clear --env=prod
 
 En mode développement, vider le cache :
 $ symfony console cache:clear
+
+Nouveau controller : (à lancer au même endroit que le  serveur (au dessus de var)
+$ symfony console make:controller --no-template
+
+$ > *DossierDuController*\*NomController*  (ne pas spécifier src)
