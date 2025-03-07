@@ -1,17 +1,34 @@
-Lancement serveur (lancement dans le dossier tp juste au dessus de var et vendor) :
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+
+Voir migrations pour ajouter les tables ts manuels et ts produits
+cf. tp5 3.5.1
+Erreur migrations non sauvegarder à revoir
+
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+
+- Lancement serveur (lancement dans le dossier tp juste au dessus de var et vendor) :
 $ symfony server:start
 
 
-Accès : 
+- Accès : 
 http://localhost:8000 (http://127.0.0.1:8000)
 
-En mode production, vider le cache :
+- En mode production, vider le cache :
 $ symfony console cache:clear --env=prod
 
-En mode développement, vider le cache :
+- En mode développement, vider le cache :
 $ symfony console cache:clear
 
-Nouveau controller : (à lancer au même endroit que le  serveur (au dessus de var)
+- Nouveau controller : (à lancer au même endroit que le  serveur (au dessus de var)
 $ symfony console make:controller --no-template
 
 $ > *DossierDuController*\*NomController*  (ne pas spécifier src)
+
+
+- Nouvelle entité : 
+$ symfony console make:entity
+
+Schéma : Nom Colonne -> type -> longueur max du champ (selon le type) -> ajouter une autre colonne yes/no
+
